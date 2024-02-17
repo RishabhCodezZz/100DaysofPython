@@ -18,7 +18,6 @@ for i in range(0,nr_symbols + 1):
 for i in range(0,nr_numbers + 1):
   count.append(random.choice(numbers))
   
-2 symbol, 2 number = g^2jk8&P
 random.shuffle(count)
 password = ""
 for i in count:
